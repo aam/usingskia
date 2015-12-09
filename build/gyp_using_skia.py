@@ -5,7 +5,8 @@ import sys
 script_dir = os.path.dirname(__file__)
 using_skia_src = os.path.abspath(os.path.join(script_dir, os.pardir))
 
-sys.path.insert(0, os.path.join(using_skia_src, 'tools', 'gyp', 'pylib'))
+sys.path.insert(0, os.path.join(using_skia_src, 'third_party', 'skia', 'third_party', 'externals', 'gyp', 'pylib'))
+
 import gyp
 
 if __name__ == '__main__':

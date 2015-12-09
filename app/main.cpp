@@ -1,3 +1,5 @@
+#include <stdio.h>
+
 #include "SkPaint.h"
 #include "SkString.h"
 
