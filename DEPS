@@ -1,5 +1,5 @@
 vars = {
-	"depot_tools_revision": "2d18db8321c60838733f40a2df5ca154fbc24b75",
+	"depot_tools_revision": "5fd66957f08bb752dca714a591c84587c9d70762",
 }
 
 deps = {
